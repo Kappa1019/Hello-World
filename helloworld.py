@@ -1,6 +1,6 @@
 '''
 
-to upload file to github
+TO UPLOAD FILE FROM LOCAL SYSTEM TO GITHUB
 git init
 git remote add origin https://github.com/Kappa1019/Hello-World.git
 git add filename.ext
